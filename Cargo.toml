@@ -1,0 +1,12 @@
+[package]
+authors = ["donmai-me"]
+description = "A cardinal neighbor quadtree library"
+name = "cnquadtree"
+version = "0.0.1"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+num-traits = "0.2.14"
+slotmap = "1.0.6"
+thiserror = "1.0.31"
